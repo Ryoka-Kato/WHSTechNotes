@@ -16,3 +16,5 @@ I don't really know what "67" means. But I have been hearing it from many people
 If I was in charge of my own school The policy would be that, I would block AI and certain school inapropriate games/ sites. I would allow cell phones only during passing period and lunch. I will use lock down browser to lock chromebooks while students do the assighnments, but after the students have confirmed that they finished alol their work then the teachers will unlock the chromebook so the students can play games or search stuff. I would make a section in the classroom near a teacher to turn in the phones so that no students can cheat or use AI. I would allow phones outside the classroom because there is no reason to perhibit phones. I would also make the teachers to not use their personal phones unless it is an emergency or told by the school to check.
 # October 7, 2025
 Did the Click a Cookie Game
+# October 8, 2025
+Finished Bot is sus?
