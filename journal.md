@@ -18,3 +18,5 @@ If I was in charge of my own school The policy would be that, I would block AI a
 Did the Click a Cookie Game
 # October 8, 2025
 Finished Bot is sus?
+# October 9, 2025
+Did the Blocky Games activity
