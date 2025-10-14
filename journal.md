@@ -20,3 +20,6 @@ Did the Click a Cookie Game
 Finished Bot is sus?
 # October 9, 2025
 Did the Blocky Games activity
+# October 14, 2025
+https://www.canva.com/design/DAG1zFpK7Ts/QMWD27iNGfiWYLO6dbcSjA/view?utm_content=DAG1zFpK7Ts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5754caddf7
+The promt was designed to teach students what the quadratic formula is. Also it was desighned to let students practice the formula with questions at the end. Canva interacted just fine but I had to add more statements so that the sheet was more efficient. The part that worked the best was that the AI created a system that lets students see how the formula works by simply putting in what the A, B, C of the formula would be. I think I can improve the prompt by making a place to adjust the difficulty of the explanation and questions because, if it was too hard then some people may not understand and will not be a practice.
