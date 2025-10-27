@@ -29,3 +29,10 @@ The promt was designed to teach students what the quadratic formula is. Also it 
 | Franklin      | Second       | 91A   |
 | Hardeep   | Third        | 61F      |
 | Marla   | First        | 35B      |
+# October 27, 2025
+Option 2
+| Name | Main Dish | Dessert |
+|:---  | :----:  |  ---:|
+| Fiona | Gado Gado | Creme Brulee |
+| Tobias | Shrimp Ceviche | French Apple cake |
+| Leanne | Beef Wellington | Rasberry Tiramisu |
