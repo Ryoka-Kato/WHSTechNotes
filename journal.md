@@ -36,3 +36,5 @@ Option 2
 | Fiona | Gado Gado | Creme Brulee |
 | Tobias | Shrimp Ceviche | French Apple cake |
 | Leanne | Beef Wellington | Rasberry Tiramisu |
+# November 3, 2025
+It is a big deal if the SNAP ran out of funding because the people who need help buying food because of money difficulties will not be able to get food and starve. Technologies might be able to help people find or access food by creating websites that have list of stores that gives out food or have food low price to the people with low income. Also there can be a time schedule for when free meals are given out by the city or a local governing group. The challenges that might exist in this is that low income families might not have access to internet or don't have a device that can be used to see those websites. If I was to design a tool to solve food insecurity I would make a place where people without internet can access the internet 30-60 minutes each day so that they can find things they need to get access to food.
