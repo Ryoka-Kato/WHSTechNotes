@@ -41,3 +41,5 @@ It is a big deal if the SNAP ran out of funding because the people who need help
 # November 10, 2025
 Gratitude & Growth
 The moment I was most proud of this semister was when I had to right a 2-3 page essay for college trandition class and made a full grade. This is was a resent achivement I got about a week ago. The essay was about how we can train our memories to be better at storing information. I worked on it for 2 weeks and cut down on some sleep to finish. All the work has worth it and got a full grade of that essay and got my grade up from 98.02 to 98.48.
+# November 17, 2025
+Yes I am looking forward to Thanksgiving break I will be able to sleep long and will not have to go to school. I also have a plan for going to corpus. The only concern is that my college transition class might give me something to do since the break doesn't start until Thursday for college. If they give me something I will scream.
