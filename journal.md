@@ -63,3 +63,19 @@ Self care and personal hygiene in shared spaces are important because it is a "s
 I do not enjoy football because I don't know the rules or any players. For that reason I did not watch Superbowl this year.
 # Febuary 23, 2026
 One new technology that was introduced in the 2026 Milano Winter Olympics is a timer created by OMEGA. It was used to time skiing. This improved fairness and performance because the more persice the timers are there will be less mistakes of the time a athlete finishes. There has been some incidents where the timer or the scaler malfunctioned and the record was not counted. So it is important that the timers get advanced and have less lag and malfunctions.
+# March 2, 2026
+Job #1
+EControls
+System Software Engineer
+Bachelor's degree in Mechanical Engineering or related field
+Minimum of five (5) years of relevant experience, Must have experience in the LabView programming environment
+Mechanical Engineering, programming
+Develop and support LabView based software for control of dynamometer facility and associated test equipment.Provide engineering analysis for development of new test equipment which may include fluid and heat transfer components.
+Job #2
+USAA
+Data Analyst, Digital Marketing
+Bachelor’s degree in a quantitative analytics field such as Economics, Finance, Statistics, Mathematics, Actuarial Sciences
+6 years of data & analytics experience OR a minimum of 4 years of data & analytics experienc
+Finance, marketing, analytics, statistics
+Analyzes complex business problems and issues using data from internal and external sources to provide insight to analysts and decision makers. Identifies and interprets trends and patterns in datasets to locate influences.
+I would prefer Job#1. I chose 1 because I don't think I'm the person for finace and economy. Job2 requires high levels of finacial and economic understanding. Compared to job2, job1 is mostly engineering and programming whcih drives more interest for me. I am also taking a programming cource and no finace or marketing classes.
